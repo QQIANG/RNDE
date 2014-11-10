@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>697EA9E6-CBBC-4F0B-83D7-413661B99A19</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iOS8Research</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>73FCB302DA9B696715397C2D612684ADC369F4F6</key>
+		<string>https://github.com/QQIANG/RNDE.git</string>
+		<key>9b45032e-4cc4-4604-b8f9-5b412f2a1ef5++5451</key>
+		<string>svn://192.168.0.51/%2525E7%2525A7%2525BB%2525E5%25258A%2525A8%2525E5%2525BC%252580%2525E5%25258F%252591/ISO</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>codes/ios/iOS8Research/iOS8Research.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>73FCB302DA9B696715397C2D612684ADC369F4F6</key>
+		<string>../../../..</string>
+		<key>9b45032e-4cc4-4604-b8f9-5b412f2a1ef5++5451</key>
+		<string>../../../../../iOS/Codes</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9b45032e-4cc4-4604-b8f9-5b412f2a1ef5++5451</key>
+		<string>svn://192.168.0.51</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/QQIANG/RNDE.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>73FCB302DA9B696715397C2D612684ADC369F4F6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9b45032e-4cc4-4604-b8f9-5b412f2a1ef5++5451</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Codes</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>73FCB302DA9B696715397C2D612684ADC369F4F6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RNDE</string>
+		</dict>
+	</array>
+</dict>
+</plist>

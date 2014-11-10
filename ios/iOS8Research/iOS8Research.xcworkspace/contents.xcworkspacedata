@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../../../../iOS/Codes/src/WeiJob/Five2One/Five2One.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TTing001/TTing001.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TTing/TTing.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Test/Test.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StoreBoard001/StoreBoard001.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PhotoHandoffImplementingNSUserActivitytohandoffuseractions/PhotoHandoff.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Push001/Push001.xcodeproj">
+   </FileRef>
+</Workspace>
